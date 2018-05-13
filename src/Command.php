@@ -4,5 +4,5 @@ namespace ReactiveApps\Command;
 
 interface Command
 {
-    public function __invoke();
+    //public function __invoke();
 }
