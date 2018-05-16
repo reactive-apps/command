@@ -1,15 +1,15 @@
 {
     "name": "reactive-apps/command",
     "require": {
-        "php": "^7.0"
+        "php": "^7.2"
     },
     "require-dev": {
-        "api-clients/test-utilities": "^4.2"
+        "api-clients/test-utilities": "^4.3"
     },
     "config": {
         "sort-packages": true,
         "platform": {
-            "php": "7.0"
+            "php": "7.2"
         }
     },
     "autoload": {
